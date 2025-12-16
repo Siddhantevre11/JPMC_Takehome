@@ -1,0 +1,12 @@
+prefix=c:/Users/sidev/Desktop/JPMC_Takehome/.conda/Library
+exec_prefix=c:/Users/sidev/Desktop/JPMC_Takehome/.conda/Library
+libdir=c:/Users/sidev/Desktop/JPMC_Takehome/.conda/Library/lib
+includedir=c:/Users/sidev/Desktop/JPMC_Takehome/.conda/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
