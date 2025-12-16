@@ -1,0 +1,34 @@
+# IDE and editor folders
+.claude/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Data files (if large)
+*.csv
+*.data
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+venv/
+env/
+ENV/
+.venv/
