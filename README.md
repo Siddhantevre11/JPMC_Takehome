@@ -133,8 +133,8 @@ JPMC_Takehome/
 
 ## Contact Information
 
-**Author:** [Your Name]
-**Email:** [Your Email]
+**Author:** [Siddhant Evre]
+**Email:** [sidevre@gmail.com]
 **Date Completed:** December 2025
 
 *(Optional: Add LinkedIn or GitHub profile links here)*
